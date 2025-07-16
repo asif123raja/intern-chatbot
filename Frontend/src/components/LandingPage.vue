@@ -58,7 +58,7 @@ const openChat = () => {
     <!-- Footer -->
     <footer class="bg-slate-800 text-white py-6 text-center">
       <div class="container mx-auto px-5">
-        <p>© 2023 InternConnect. All rights reserved.</p>
+        <p>© 2025 InternConnect. All rights reserved.</p>
       </div>
     </footer>
   </div>
