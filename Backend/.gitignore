@@ -1,0 +1,21 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env              # contains Gemini API key, should NEVER be committed
+
+# === Node.js / Vite ===
+node_modules/
+dist/
+.vite/
+*.log
+
+# === OS / Editor Junk ===
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.swn
+.idea/
+.vscode/
